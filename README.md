@@ -1,3 +1,4 @@
+![logo](1655618827642.jfif)
 <h1 align="center">Hi 👋, I'm Pratik Karna</h1>
 <h3 align="center">Full Stack Developer</h3>
 
