@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Karna</h1>
-<h3 align="center">Exploring Web and Mobile App Development</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-karna&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karna" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik-karna" alt="pratik-karna" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ign_pratik" target="blank"><img src="https://img.shields.io/twitter/follow/ign_pratik?logo=twitter&style=for-the-badge" alt="ign_pratik" /></a> </p>
 
 - 🌱 I’m currently learning **ReactNative,MongoDB**
 
@@ -13,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pratikkarna/](https://www.linkedin.com/in/pratikkarna/)
 
-- 💬 Ask me about **javascript,css,C,Java,Python,SQL,etc**
+- 💬 Ask me about **Javascript,CSS,C,Java,Python,HTML**
 
 - 📫 How to reach me **kaystha.pratik@gmail.com**
 
@@ -35,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-karna&show_icons=true&locale=en" alt="pratik-karna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-karna&" alt="pratik-karna" /></p>
-
