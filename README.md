@@ -1,11 +1,12 @@
 ![logo](1655618827642.jfif)
-<h1 align="center">Hi 👋, I'm Pratik Karna</h1>
+<h1 align="center">Hi! 👋, I'm Pratik Karna</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <img align="right" alt="programmer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-karna&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karna" /> </p>
-
+<h>About me</h><br>
+<br>
 - 🌱 I’m currently learning **ReactNative,MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratik-karna](https://github.com/pratik-karna)
