@@ -1,4 +1,4 @@
-![logo](1655618827642.jfif)
+![logo](https://github.com/pratik-karna/pratik-karna/blob/main/pratik%20karna.png)
 <h1 align="center">Hi folks, I'm Pratik Karna👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
