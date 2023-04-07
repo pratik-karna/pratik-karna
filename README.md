@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-karna&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karna" /> </p>
 <h>About me</h><br>
 <br>
-- 🌱 I’m currently learning **ReactNative,MongoDB**
+- 🌱 I’m currently learning **React.Js,MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratik-karna](https://github.com/pratik-karna)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pratikkarna/](https://www.linkedin.com/in/pratikkarna/)
 
-- 💬 Ask me about **Javascript,CSS,C,Java,Python,HTML**
+- 💬 Ask me about **Python,CSS,C,Javascript,HTML**
 
 - 📫 How to reach me **kaystha.pratik@gmail.com**
 
