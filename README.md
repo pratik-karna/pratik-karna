@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-karna&show_icons=true&theme=chartreuse-dark" alt="pratik-karna" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=pratik-karna&theme=chartreuse-dark" alt="pratik-karna" /></p>
-  
